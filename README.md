@@ -1,3 +1,4 @@
+[cicd_aws]
 User Data for Dependencies installations for AMAZON Linux 2:-
 
 #!/bin/bash
